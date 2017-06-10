@@ -1,4 +1,4 @@
-package com.example.hayasi.acctest;
+package com.example.XXXXXX.acctest;
 
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
