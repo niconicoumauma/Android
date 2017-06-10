@@ -19,3 +19,9 @@
 
         }
     }
+
+
+    private void playSound(){
+        MediaPlayer data = MediaPlayer.create(this, Uri.parse(Environment.getExternalStorageDirectory().getPath() + "/sound.wav") );
+        data.start();
+    }
